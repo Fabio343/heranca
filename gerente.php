@@ -8,8 +8,4 @@ class gerente extends funcionario //classe com herança(reutilização de codigo
   public $senha;
 }
 
-
-
-
-
  ?>
