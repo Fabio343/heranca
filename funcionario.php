@@ -9,4 +9,7 @@ class funcionario
   public $salario;
 }
 
+function beneficio(){
+  echo "string";
+}
  ?>
