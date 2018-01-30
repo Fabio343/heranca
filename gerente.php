@@ -7,6 +7,10 @@ class gerente extends funcionario //classe com herança(reutilização de codigo
 {
   public $senha;
   public $usuario;
+
+  public function beneficio(){
+    return $this->salario*0.6+100;
+  }
 }
 
  ?>
