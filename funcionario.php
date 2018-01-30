@@ -10,6 +10,6 @@ class funcionario
 }
 
 function beneficio(){
-  echo "string";
+  return $this->salario * 0.1;
 }
  ?>
