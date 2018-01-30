@@ -1,5 +1,5 @@
 <?php
-require 'funcionario.php';
+
 require 'gerente.php';
 require 'secretaria.php';
 require 'telefonista.php';
